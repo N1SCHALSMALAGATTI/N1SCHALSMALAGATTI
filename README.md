@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @N1SCHALSMALAGATTI
-- 👀 I’m interested in Gaminf,Coding and stuff :)
+- 👀 I’m interested in Gaming,Coding and stuff :)
 - 🌱 I’m currently learning Python and MYSQL
 - 📫 How to reach me My IG:- ven0master.exe :)
 
