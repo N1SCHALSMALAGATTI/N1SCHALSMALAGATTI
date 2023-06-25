@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nischal S Malagati
-- 👀 I’m interested in Gaming,Coding and stuff :)
-- 🌱 I’m currently learning Python and MYSQL
+- 👀 I’m interested in Gaming,Coding and stuff 
 - 📫 How to reach me My IG:- n1zchal_
 
 <!---
