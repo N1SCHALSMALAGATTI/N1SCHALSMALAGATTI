@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @N1SCHALSMALAGATTI
+- 👋 Hi, I’m Nischal S Malagati
 - 👀 I’m interested in Gaming,Coding and stuff :)
 - 🌱 I’m currently learning Python and MYSQL
-- 📫 How to reach me My IG:- ven0master.exe :)
+- 📫 How to reach me My IG:- n1zchal_
 
 <!---
 N1SCHALSMALAGATTI/N1SCHALSMALAGATTI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
